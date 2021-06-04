@@ -1,0 +1,5 @@
+account,stock,quantity,price,marketValue
+John,GOOGLE,50,20,1000
+Sarah,GOOGLE,10,20,200
+John,APPLE,25,10,250
+Sarah,APPLE,50,10,500
