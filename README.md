@@ -19,7 +19,7 @@ You will implement the requirements specified in [Allocation Logic BASIC](#alloc
 
 Additional rules:
 
-1. Include a README.md file in your project. Indicate whether you've chosen to implement [Allocation Logic BASIC](#allocation-logic-basic) or [Allocation Logic ADVANCED](#allocation-logic-advanced). You can explain your approach, describe known issues etc... Also include instructions on how to compile and run your project locally.
+1. Include a README.md file in your project. Indicate whether you've chosen to implement [Allocation Logic BASIC](#allocation-logic-basic). You can explain your approach, describe known issues etc... Also include instructions on how to compile and run your project locally.
 2. Your code must be compilable and runnable in Java 11. 
 3. Check in your executable jar. 
 4. You may use any packages found in maven central. 
