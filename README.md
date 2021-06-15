@@ -23,6 +23,7 @@ Additional rules:
 2. Your code must be compilable and runnable in Java 11. 
 3. Check in your executable jar. 
 4. You may use any packages found in maven central. 
+5. Assume the input files (capital.csv, trades.csv, etc...) are well formed csv's and data types are consistent and correct. For example there will not be some rows that are 5 columns and some with 3, or alphanumeric text in number fields. Furthermore you can expect that "account" and "stock" to be spelled and cased consistently throughtout (i.e. you will not see "Google" spelled differently in different files, like "GOOGLE" or "Google, Inc"). However do not assume that every account will have a target allocation for a stock, nor that every account will have a position for that stock. 
 
 ## Trade Allocation Overview
 
