@@ -13,7 +13,7 @@ You will create a Java application that will compute trade allocations across mu
 java com.test.allocation.TradeAllocator trades.csv capital.csv holdings.csv ratios.csv  allocations.csv
 ```
 
-The above command will ingest several input files [trades.csv](#trades.csv), [capital.csv](#capital.csv), [holdings.csv](#holdings.csv), [targets.csv](#targetscsv) and outputs the file: [allocations.csv](#allocations.csv). 
+The above command will ingest several input files [trades.csv](#trades.csv), [capital.csv](#capital.csv), [holdings.csv](#holdings.csv), [targets.csv](#targetscsv) and outputs the file: [allocations.csv](#allocations.csv). YOU MUST CHECK IN A MAIN THAT INGESTS THESE 4 CSV FILES. THIS IS NOT AN OPTIONAL REQUIREMENT.
 
 You will implement the requirements specified in [Allocation Logic BASIC](#allocation-logic-basic). The goal of this exercise is to showcase what you believe a well-designed Java application should like so treat this as if it were code that you would be proud to promote to production.   
 
